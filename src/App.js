@@ -72,7 +72,7 @@ const deleteText = () => {
     </div>
     <div className= "row">
     <Button symbol="0" handdleclick={addText}/>
-    <Button symbol="," handdleclick={addText}/>
+    <Button symbol="." handdleclick={addText}/>
     <Button symbol="=" handdleclick={addResult}/>
     </div>
     </div>
